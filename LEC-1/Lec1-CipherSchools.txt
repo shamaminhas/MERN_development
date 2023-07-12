@@ -1,0 +1,41 @@
+KPMG India, 4 startups-> Unacademy, Tsaaro, Upgrad, Acadview, Indicum Hub 2 Global Hackathons-> Techgig Code gladiators 2.5 lakh people, 31 counties
+
+1.) Salary
+Service Based (2-8)
+Product Based (7-52)
+2.) Work Culture
+3.) Client interaction
+
+Course Covers:-
+
+HTML, CSS, JS, React, Node, Express and MongoDB and Deployment
+
+	HTML & CSS-> 3-4 
+
+	days JS-> 8-10 Days
+ 	
+	React-10-14 
+
+	Node, Express and MongoDB -> 7-10
+
+
+Queries Fast-> CRUD Create Read Update Delete
+
+indexes to make our queries faster
+
+matrix [m][n] for column in n
+
+print(matrix[0][column])
+
+for(int i=0;i<n;i++)
+{ 
+cout << matrix [0][U]
+}
+
+Database:-
+
+ID, Name,Age,Password 
+
+1.Satyam, 14,
+2. hello world 4,
+3. Ayush, 20, Hello everyone
